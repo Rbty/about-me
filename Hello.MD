@@ -1,6 +1,12 @@
 # Linguagens
 
-*
-python
-java
-*
+*python
+javascript
+lua
+html
+css
+php
+C
+
+
+
