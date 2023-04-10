@@ -6,7 +6,6 @@ lua
 html
 css
 php
-C
-*
+C*
 
 
