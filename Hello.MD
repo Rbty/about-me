@@ -1,6 +1,6 @@
 # Linguagens
 
-* python !https://miro.medium.com/v2/resize:fit:256/1*ztqS5rRI29GHxZa6uPF2UA.png
+* python 
 * javascript 
 * lua 
 * html 
@@ -9,3 +9,4 @@
 * C
 
 
+!https://miro.medium.com/v2/resize:fit:256/1*ztqS5rRI29GHxZa6uPF2UA.png
