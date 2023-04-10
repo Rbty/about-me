@@ -1,5 +1,5 @@
 # Linguagens
-
+*
 *python
 javascript
 lua
